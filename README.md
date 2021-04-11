@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gokberk Ozenir
+- 👀 I’m interested in Machine Learning, Deep Learning etc in NLP fields such as Finance
+- 🌱 I’m currently learning BERT algorithm and its derivatives like RoBERTa
+- 📫 If you want to reach me, feel free to an e-mail to ozenirgokberk@gmail.com
