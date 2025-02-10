@@ -3,8 +3,9 @@
 -  My skills include:
 
 - **Backend**: .NET Core, RESTful APIs, Database Design, and Cloud Services
-- **Frontend**: Vue.js, Vuex, HTML, CSS, and JavaScript
-- **Other**: Blockchain smart contract development
+- **Frontend**: TypeScript, Vue.js, Vuex, JavaScript, HTML and CSS 
+- **Database**: T-SQL (MSSQL, PostgreSql, PL/SQL), No-SQL(MongoDB)
+- **Other**: Python for Deep Learning and Some Trading Bots, Blockchain smart contract development
   
 - 👀 I’m interested in Machine Learning, Deep Learning etc in NLP fields such as Finance
 - 🌱 I’m currently learning BERT algorithm and its derivatives like RoBERTa
